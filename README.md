@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surya0420
 - 👀 I’m interested in opensource stack
 - 🌱 I’m currently learning micro services
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on core JAVA
 - 📫 How to reach me ...suryajntucea@gmail.com
 
 <!---
